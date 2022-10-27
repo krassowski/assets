@@ -8,3 +8,5 @@ baseurl: /assets
 exclude:
   - src
   - README.md
+feed:
+  path: /assets/feed.atom
