@@ -1,0 +1,10 @@
+safe: true
+plugins:
+  - jekyll-feed
+theme: minima
+title: JupyterLab News
+description: Subscribe to get news about JupyterLab.
+baseurl: /assets
+exclude:
+  - src
+  - README.md
