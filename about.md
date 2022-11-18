@@ -1,1 +1,1 @@
-This website contains the JupyterLab news by the JupyterLab Developer Team.
+This website contains the Jupyter news managed by the [JupyterLab Council](https://github.com/orgs/jupyterlab/teams/jupyterlab-council).
